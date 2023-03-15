@@ -8,6 +8,6 @@ extrayendo la información que conformó el dataset.
 En progreso.
 
 
-**Créditos:**
+Créditos:
 https://medium.com/dataseries/how-to-scrape-millions-of-tweets-using-snscrape-195ee3594721
 https://raw.githubusercontent.com/fnielsen/afinn/master/afinn
